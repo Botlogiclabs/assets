@@ -1,0 +1,14 @@
+[
+  {
+    "title": "OLYM Mainnet",
+    "url": "https://olympusexplorer.io/",
+    "group": "Mainnets",
+    "icon": "https://raw.githubusercontent.com/Botlogiclabs/assets/main/frontend_info/icon.png"
+  },
+  {
+    "title": "OLYM Testnet",
+    "url": "https://testnet-explorer.olympusexplorer.io/",
+    "group": "Testnets",
+    "icon": "https://raw.githubusercontent.com/Botlogiclabs/assets/main/frontend_info/icon.png"
+  }
+]
