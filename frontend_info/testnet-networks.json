@@ -1,0 +1,15 @@
+[
+  {
+    "title": "Apollo Mainnet",
+    "url": "https://apolloscan.io/",
+    "group": "Mainnets",
+    "icon": "https://raw.githubusercontent.com/Botlogiclabs/assets/main/frontend_info/icon.png"
+  },
+  {
+    "title": "Apollo Testnet",
+    "url": "https://testnet-explorer.apolloscan.io/",
+    "group": "Testnets",
+    "icon": "https://raw.githubusercontent.com/Botlogiclabs/assets/main/frontend_info/icon.png",
+    "isActive": true
+  }
+]
