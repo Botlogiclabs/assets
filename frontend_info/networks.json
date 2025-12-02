@@ -1,13 +1,13 @@
 [
   {
-    "title": "OLYM Mainnet",
-    "url": "https://olympusexplorer.io/",
+    "title": "Apollo Mainnet",
+    "url": "https://apolloscan.io/",
     "group": "Mainnets",
     "icon": "https://raw.githubusercontent.com/Botlogiclabs/assets/main/frontend_info/icon.png"
   },
   {
-    "title": "OLYM Testnet",
-    "url": "https://testnet-explorer.olympusexplorer.io/",
+    "title": "Apollo Testnet",
+    "url": "https://testnet-explorer.apolloscan.io/",
     "group": "Testnets",
     "icon": "https://raw.githubusercontent.com/Botlogiclabs/assets/main/frontend_info/icon.png"
   }
